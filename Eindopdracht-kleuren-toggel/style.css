@@ -1,0 +1,52 @@
+.screen{
+    background-color: rgb(47, 175, 248);
+}
+
+.menuToggel {
+    width:60px;
+    height:60px;
+    background-image: url(hamburger2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:center;
+    cursor: pointer;
+    border: hidden;
+} 
+
+.all-colors {
+    margin-top:10px; 
+    padding:4px;
+    list-style-type: none;
+    font-size: larger;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.all-colors li{
+    margin-top: 5px;
+    width: 50%;
+    text-align: left;
+}
+.home {
+    background-color:rgb(47, 175, 248);
+    padding:  10px;
+    cursor: pointer;
+}
+.red,.pink,.salamon,.lavender {
+    padding: 10px;
+    cursor: pointer;
+}
+.red {
+    background-color: crimson;
+}
+.pink {
+    background-color:rgb(226, 151, 233);
+}
+.salamon {
+    background-color:darksalmon;
+}
+.lavender {
+    background-color:slateblue;
+}
+.red-background {
+    background-color: crimson;
+}
